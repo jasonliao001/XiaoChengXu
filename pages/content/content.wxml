@@ -1,0 +1,32 @@
+
+<view class="btn-area">
+    <ul>
+        <li>
+            <navigator class="nav-click" url="/pages/view/index/index" hover-class="navigator-hover">视图容器</navigator>
+        </li>
+        <li>
+             <navigator class="nav-click" url="/pages/base/base" hover-class="navigator-hover">基础内容</navigator>
+        </li>
+        <li>
+             <navigator  class="nav-click" url="/pages/form/form" hover-class="navigator-hover">表单组件</navigator>
+        </li>
+        <li>
+             <navigator class="nav-click" url="/pages/help/help" hover-class="navigator-hover">导航</navigator>
+        </li>
+        <li>
+             <navigator class="nav-click" url="/pages/media/media" hover-class="navigator-hover">媒体组件</navigator>
+        </li>
+        <li>
+             <navigator class="nav-click"  url="/pages/map/map" hover-class="navigator-hover">地图</navigator>
+        </li>
+         <li>
+             <navigator class="nav-click"  url="/pages/canvas/canvas" hover-class="navigator-hover">画布</navigator>
+        </li>
+         <li>
+             <navigator class="nav-click"  url="/pages/help/help" hover-class="navigator-hover">开放数据</navigator>
+        </li>
+         <li>
+             <navigator class="nav-click"  url="/pages/contact/contact" hover-class="navigator-hover">客服会话</navigator>
+        </li>
+    </ul>
+</view>

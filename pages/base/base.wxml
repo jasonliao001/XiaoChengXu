@@ -1,0 +1,17 @@
+<view class="btn-area">
+    <ul>
+        <li>
+            <navigator class="nav-click" url="/pages/base/icon/icon" hover-class="navigator-hover">icon</navigator>
+        </li>
+        <li>
+            <navigator class="nav-click" url="/pages/base/text/text" hover-class="navigator-hover">text</navigator>
+        </li>
+        <li>
+            <navigator class="nav-click" url="/pages/base/richText/richText" hover-class="navigator-hover">rich-text</navigator>
+        </li>
+        <li>
+            <navigator class="nav-click" url="/pages/base/progress/progress" hover-class="navigator-hover">progress</navigator>
+        </li>
+
+    </ul>
+</view>

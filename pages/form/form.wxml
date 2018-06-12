@@ -1,0 +1,34 @@
+<view class="btn-area">
+    <ul>
+        <li>
+            <navigator class="nav-click" url="/pages/form/button/button" hover-class="navigator-hover">button</navigator>
+        </li>
+        <li>
+            <navigator class="nav-click" url="/pages/form/checkbox/checkbox" hover-class="navigator-hover">checkbox</navigator>
+        </li>
+        <li>
+            <navigator class="nav-click" url="/pages/form/form/form" hover-class="navigator-hover">form</navigator>
+        </li>
+        <li>
+            <navigator class="nav-click" url="/pages/form/input/input" hover-class="navigator-hover">input</navigator>
+        </li>
+        <li>
+            <navigator class="nav-click" url="/pages/form/label/label" hover-class="navigator-hover">label</navigator>
+        </li>
+        <li>
+            <navigator class="nav-click" url="/pages/form/picker/picker" hover-class="navigator-hover">picker</navigator>
+        </li>
+        <li>
+            <navigator class="nav-click" url="/pages/form/radioGroup/radioGroup" hover-class="navigator-hover">radioGroup</navigator>
+        </li>
+        <li>
+            <navigator class="nav-click" url="/pages/form/slider/slider" hover-class="navigator-hover">slider</navigator>
+        </li>
+         <li>
+            <navigator class="nav-click" url="/pages/form/switch/switch" hover-class="navigator-hover">switch</navigator>
+        </li>
+        <li>
+            <navigator class="nav-click" url="/pages/form/textarea/textarea" hover-class="navigator-hover">textarea</navigator>
+        </li>
+    </ul>
+</view>

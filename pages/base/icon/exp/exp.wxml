@@ -1,0 +1,18 @@
+<view class="group">
+  <block wx:for="{{iconSize}}" wx:key="{{index}}">
+    <icon type="success" size="{{item}}"/>
+  </block>
+</view>
+
+<view class="group">
+  <block wx:for="{{iconType}}" wx:key="{{index}}">
+    <icon type="{{item}}" size="20"/>
+  </block>
+</view>
+
+
+<view class="group">
+  <block wx:for="{{iconColor}}" wx:key="{{index}}">
+    <icon type="success" size="20" color="{{item}}"/>
+  </block>
+</view>

@@ -1,0 +1,3 @@
+<view class="btn-area">
+    <navigator url="/pages/help/help" >sad</navigator>
+</view>

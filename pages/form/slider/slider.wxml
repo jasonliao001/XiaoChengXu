@@ -1,0 +1,24 @@
+<view class="view-block">
+    <view class="views-title">
+        <span>slider</span>
+    </view>
+    <view class="views-detail" >
+        <ul class="head">
+            <li wx:for="{{title}}" wx:key="{{index}}">
+                {{item}}     
+            </li>
+        </ul>
+        <ul wx:for="{{content}}" wx:key="{{index}}" class="content">
+            <li>{{item.attr}}</li>
+            <li>{{item.types}}</li>
+            <li>{{item.defaults}}</li>
+            <li>{{item.help}}</li>
+        </ul>
+    </view>
+    <view class="views-title">
+        <span>示列</span>
+    </view>
+    <view class="code">
+        <button bindtap="goExp"  type="primary">slider</button>
+    </view>
+</view>

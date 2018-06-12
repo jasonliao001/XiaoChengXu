@@ -1,0 +1,20 @@
+
+<view class="btn-area">
+    <ul>
+        <li>
+            <navigator class="nav-click" url="/pages/view/views/views" hover-class="navigator-hover">view</navigator>
+        </li>
+        <li>
+            <navigator class="nav-click" url="/pages/view/scrollView/scrollView" hover-class="navigator-hover">scroll-view</navigator>
+        </li>
+        <li>
+            <navigator class="nav-click" url="/pages/view/swiper/swiper" hover-class="navigator-hover">swiper</navigator>
+        </li>
+        <li>
+            <navigator class="nav-click" url="/pages/view/views/views" hover-class="navigator-hover">movable-area</navigator>
+        </li>
+        <li>
+            <navigator class="nav-click" url="/pages/view/views/views" hover-class="navigator-hover">cover-view</navigator>
+        </li>
+    </ul>
+</view>

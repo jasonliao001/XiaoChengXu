@@ -1,0 +1,77 @@
+{
+  "pages":[
+    "pages/index/index",
+    "pages/logs/logs",
+    "pages/content/content",
+    "pages/help/help",
+    "pages/view/index/index",
+    "pages/view/views/views",
+    "pages/view/views/exp/exp",
+    "pages/view/scrollView/scrollView",
+    "pages/view/scrollView/exp/exp",
+    "pages/view/swiper/swiper",
+    "pages/view/swiper/exp/exp",
+    "pages/base/base",
+    "pages/base/icon/icon",
+    "pages/base/progress/progress",
+    "pages/base/richText/richText",
+    "pages/base/text/text",
+    "pages/form/form",
+    "pages/form/button/button",
+    "pages/form/checkbox/checkbox",
+    "pages/form/form/form",
+    "pages/form/input/input",
+    "pages/form/label/label",
+    "pages/form/picker/picker",
+    "pages/form/radioGroup/radioGroup",
+    "pages/form/slider/slider",
+    "pages/form/switch/switch",
+    "pages/form/textarea/textarea",
+    "pages/form/button/exp/exp",
+    "pages/form/checkbox/exp/exp",
+    "pages/form/form/exp/exp",
+    "pages/form/input/exp/exp",
+    "pages/form/label/exp/exp",
+    "pages/form/picker/exp/exp",
+    "pages/form/radioGroup/exp/exp",
+    "pages/form/slider/exp/exp",
+    "pages/form/textarea/exp/exp",
+    "pages/media/media",
+    "pages/media/audio/audio",
+    "pages/media/image/image",
+    "pages/media/video/video",
+    "pages/media/camera/camera",
+    "pages/media/audio/exp/exp",
+    "pages/media/image/exp/exp",
+    "pages/media/video/exp/exp",
+    "pages/media/camera/exp/exp",
+    "pages/map/map",
+    "pages/map/exp/exp",
+    "pages/canvas/canvas",
+    "pages/canvas/exp/exp",
+    "pages/contact/contact",
+    "pages/contact/exp/exp",
+    "pages/base/icon/exp/exp",
+    "pages/base/progress/exp/exp"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor":"#ddd",
+    "navigationBarTitleText":"首页",
+    "navigationBarTextStyle":"black"
+  },
+  "tabBar":{
+    "list":[{
+      "pagePath": "pages/index/index",
+      "text":"首页"
+    },{
+      "pagePath": "pages/logs/logs",
+      "text":"日志"
+    },{
+      "pagePath": "pages/content/content",
+      "text":"组件"
+    }],
+    "position":"top"
+  },
+  "debug": true
+}

@@ -1,0 +1,14 @@
+.btn-area{
+    padding: 20rpx;
+    overflow: hidden;
+}
+.nav-click{
+    border: 1px solid #ddd;
+    padding: 10px 20px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+.navigator-hover {
+    color: blue;
+    background-color: #eee;
+}

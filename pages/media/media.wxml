@@ -1,0 +1,17 @@
+<view class="btn-area">
+    <ul>
+        <li>
+            <navigator class="nav-click" url="/pages/media/audio/audio" hover-class="navigator-hover">audio</navigator>
+        </li>
+        <li>
+            <navigator class="nav-click" url="/pages/media/image/image" hover-class="navigator-hover">image</navigator>
+        </li>
+        <li>
+            <navigator class="nav-click" url="/pages/media/video/video" hover-class="navigator-hover">video</navigator>
+        </li>
+        <li>
+            <navigator class="nav-click" url="/pages/media/camera/camera" hover-class="navigator-hover">camera</navigator>
+        </li>
+
+    </ul>
+</view>
